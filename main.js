@@ -20,7 +20,7 @@ function mousePressed() {
 
 function draw() {
   background("#ffcccc");
-  fill('green');
+  fill('purple');
 
   ellipse(shared.x, shared.y, 200, 30);
 }
