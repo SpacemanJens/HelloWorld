@@ -22,5 +22,5 @@ function draw() {
   background("#ffcccc");
   fill("#000066");
 
-  ellipse(shared.x, shared.y, 200, 300);
+  ellipse(shared.x, shared.y, 200, 30);
 }
